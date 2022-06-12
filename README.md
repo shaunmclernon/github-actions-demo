@@ -230,6 +230,8 @@ Your new action will run any time a new commit is created or pushed to the remot
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
+  
+ Testing the labelling...
 
 <img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
 
