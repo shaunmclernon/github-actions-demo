@@ -7,6 +7,8 @@
 
 # Hello GitHub Actions
 
+Testing labeller action...
+
 _Create a GitHub Action and use it in a workflow._
 
 <!--
